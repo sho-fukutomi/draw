@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T08:10:25.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.5.4" etag="BOCrH8DVsqTytuaAfcFE" type="github"><diagram id="rQnA_BgeT-F7sGIa1wW9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T08:34:35.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0gVf6ZBYrZB_S0eHaBZU" version="16.5.4" type="github">
+  <diagram id="rQnA_BgeT-F7sGIa1wW9" name="Page-1">
+    <mxGraphModel dx="1729" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-1" value="piano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-2" value="drums" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-3" value="PC audio IF&lt;br&gt;scarlet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-5" value="monitor speaker" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-6" value="monitor speaker" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-7" value="monitor speaker" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-8" value="Mixer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXJjWo-iLxBtiJzKFVJP-9" value="PC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
